@@ -1,0 +1,5 @@
+database_url = "postgres://noob:admin@localhost:5432/template"
+redis_url = "redis://127.0.0.1/"
+port = 3000
+service_name = "template"
+token_expire_time = 50_000
